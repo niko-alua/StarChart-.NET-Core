@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\StarChart .NET Core CSSE1801 Kossaidarova\StarChart\bin\Debug\netcoreapp2.2\StarChart.deps.json
+C:\Users\user\source\repos\StarChart .NET Core CSSE1801 Kossaidarova\StarChart\bin\Debug\netcoreapp2.2\StarChart.runtimeconfig.json
+C:\Users\user\source\repos\StarChart .NET Core CSSE1801 Kossaidarova\StarChart\bin\Debug\netcoreapp2.2\StarChart.runtimeconfig.dev.json
+C:\Users\user\source\repos\StarChart .NET Core CSSE1801 Kossaidarova\StarChart\bin\Debug\netcoreapp2.2\StarChart.dll
+C:\Users\user\source\repos\StarChart .NET Core CSSE1801 Kossaidarova\StarChart\bin\Debug\netcoreapp2.2\StarChart.pdb
+C:\Users\user\source\repos\StarChart .NET Core CSSE1801 Kossaidarova\StarChart\obj\Debug\netcoreapp2.2\StarChart.csprojAssemblyReference.cache
+C:\Users\user\source\repos\StarChart .NET Core CSSE1801 Kossaidarova\StarChart\obj\Debug\netcoreapp2.2\StarChart.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\StarChart .NET Core CSSE1801 Kossaidarova\StarChart\obj\Debug\netcoreapp2.2\StarChart.AssemblyInfo.cs
+C:\Users\user\source\repos\StarChart .NET Core CSSE1801 Kossaidarova\StarChart\obj\Debug\netcoreapp2.2\StarChart.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\StarChart .NET Core CSSE1801 Kossaidarova\StarChart\obj\Debug\netcoreapp2.2\StarChart.RazorAssemblyInfo.cache
+C:\Users\user\source\repos\StarChart .NET Core CSSE1801 Kossaidarova\StarChart\obj\Debug\netcoreapp2.2\StarChart.RazorAssemblyInfo.cs
+C:\Users\user\source\repos\StarChart .NET Core CSSE1801 Kossaidarova\StarChart\obj\Debug\netcoreapp2.2\StarChart.RazorTargetAssemblyInfo.cache
+C:\Users\user\source\repos\StarChart .NET Core CSSE1801 Kossaidarova\StarChart\obj\Debug\netcoreapp2.2\StarChart.dll
+C:\Users\user\source\repos\StarChart .NET Core CSSE1801 Kossaidarova\StarChart\obj\Debug\netcoreapp2.2\StarChart.pdb
+C:\Users\user\source\repos\StarChart .NET Core CSSE1801 Kossaidarova\StarChart\obj\Debug\netcoreapp2.2\StarChart.genruntimeconfig.cache
